@@ -14,9 +14,7 @@
  	// c remplace par 0 les valeurs non mentinnée
     
     // tableau a deux dimensions
-    int damier[3][5] = {{1,2,3,4,5},
-        {1,2,3,4,5},
-        {1,2,3,4,5}};
+    int damier[3][5] = {{1,2,3,4,5}, {1,2,3,4,5}, {1,2,3,4,5}};
 ```
 
 ### lire un tableau
